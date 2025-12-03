@@ -2,5 +2,5 @@ WPU RESOLUSI
 - Menguasai Penggunaan GIT
 - Menguasai Penggunaan kontrol M
 - Memperkuat softskill managerial
-- Memperkuat kolaborasi atar tim
 - Memperkuat domain ilmu lainnya untuk agile developement
+- Mbuat vlog
